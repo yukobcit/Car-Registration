@@ -296,7 +296,7 @@ def main():
     # menu text
     string_menu = """
 =============================
- Lab11B Yuko Ishida v1
+ car_registration Yuko Ishida v1
  Choose an option or 0 to exit
 -----------------------------
 [1] Add a car to the parking lot
